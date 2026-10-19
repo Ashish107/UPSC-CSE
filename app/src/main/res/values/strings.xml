@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UPSC Masterkey</string>
+    <string name="nav_syllabus">Syllabus</string>
+    <string name="nav_pyqs">PYQs</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_current_affairs">Current Affairs</string>
+</resources>

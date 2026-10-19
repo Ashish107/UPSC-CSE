@@ -1,0 +1,6 @@
+{
+  "name": "UPSC Masterkey",
+  "description": "Minimalist, distraction-free UPSC CSE preparation companion for Syllabus, PYQs, High-Yield Notes, and Current Affairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

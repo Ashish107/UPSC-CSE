@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star of excellence / Pathfinder compass point at top -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M54,26 L56.8,32.2 L63,35 L56.8,37.8 L54,44 L51.2,37.8 L45,35 L51.2,32.2 Z" />
+
+    <!-- Open book representing knowledge / Constitution -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,58 C51,52 38,50 32,53 L32,73 C38,70 51,72 54,78 C57,72 70,70 76,73 L76,53 C70,50 57,52 54,58 Z" />
+
+    <!-- Book spine / central pillar line -->
+    <path
+        android:strokeColor="#0B192C"
+        android:strokeWidth="2.5"
+        android:pathData="M54,58 L54,78" />
+
+    <!-- Book page details -->
+    <path
+        android:strokeColor="#FCD34D"
+        android:strokeWidth="1.2"
+        android:pathData="M37,58 C42,56 49,57 51,60" />
+    <path
+        android:strokeColor="#FCD34D"
+        android:strokeWidth="1.2"
+        android:pathData="M37,64 C42,62 49,63 51,66" />
+    <path
+        android:strokeColor="#FCD34D"
+        android:strokeWidth="1.2"
+        android:pathData="M71,58 C66,56 59,57 57,60" />
+    <path
+        android:strokeColor="#FCD34D"
+        android:strokeWidth="1.2"
+        android:pathData="M71,64 C66,62 59,63 57,66" />
+
+    <!-- Knowledge Torch flame above book -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,38 C51,43 49,46 49,49 C49,52 51.2,54 54,54 C56.8,54 59,52 59,49 C59,46 57,43 54,38 Z" />
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M54,42 C52.5,45 51.5,47 51.5,49 C51.5,50.8 52.6,52 54,52 C55.4,52 56.5,50.8 56.5,49 C56.5,47 55.5,45 54,42 Z" />
+</vector>
